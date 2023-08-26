@@ -1,0 +1,976 @@
+id_sexo;sexo;id_jurisdiccion;jurisdiccion;anio;jurisdiccion_tasa_vih
+3;ambos_sexos;200;ARG;2010;17,6
+3;ambos_sexos;200;ARG;2011;17,4
+3;ambos_sexos;200;ARG;2012;17,3
+3;ambos_sexos;200;ARG;2013;17,1
+3;ambos_sexos;200;ARG;2014;15,3
+3;ambos_sexos;200;ARG;2015;15,3
+3;ambos_sexos;200;ARG;2016;14,2
+3;ambos_sexos;200;ARG;2017;11,1
+3;ambos_sexos;200;ARG;2018;11,4
+3;ambos_sexos;200;ARG;2019;10,7
+3;ambos_sexos;200;ARG;2020;8,1
+3;ambos_sexos;200;ARG;2021;11,6
+3;ambos_sexos;200;ARG;2022;12,2
+3;ambos_sexos;02;CABA;2010;47,0
+3;ambos_sexos;02;CABA;2011;43,7
+3;ambos_sexos;02;CABA;2012;41,7
+3;ambos_sexos;02;CABA;2013;40,0
+3;ambos_sexos;02;CABA;2014;35,3
+3;ambos_sexos;02;CABA;2015;36,6
+3;ambos_sexos;02;CABA;2016;33,7
+3;ambos_sexos;02;CABA;2017;22,7
+3;ambos_sexos;02;CABA;2018;19,5
+3;ambos_sexos;02;CABA;2019;20,4
+3;ambos_sexos;02;CABA;2020;13,6
+3;ambos_sexos;02;CABA;2021;17,2
+3;ambos_sexos;02;CABA;2022;17,2
+3;ambos_sexos;06;Buenos Aires;2010;15,4
+3;ambos_sexos;06;Buenos Aires;2011;15,1
+3;ambos_sexos;06;Buenos Aires;2012;13,9
+3;ambos_sexos;06;Buenos Aires;2013;13,1
+3;ambos_sexos;06;Buenos Aires;2014;11,7
+3;ambos_sexos;06;Buenos Aires;2015;11,5
+3;ambos_sexos;06;Buenos Aires;2016;10,3
+3;ambos_sexos;06;Buenos Aires;2017;7,2
+3;ambos_sexos;06;Buenos Aires;2018;7,5
+3;ambos_sexos;06;Buenos Aires;2019;7,2
+3;ambos_sexos;06;Buenos Aires;2020;5,2
+3;ambos_sexos;06;Buenos Aires;2021;6,5
+3;ambos_sexos;06;Buenos Aires;2022;6,7
+3;ambos_sexos;10;Catamarca;2010;5,0
+3;ambos_sexos;10;Catamarca;2011;9,4
+3;ambos_sexos;10;Catamarca;2012;11,4
+3;ambos_sexos;10;Catamarca;2013;9,8
+3;ambos_sexos;10;Catamarca;2014;11,2
+3;ambos_sexos;10;Catamarca;2015;17,1
+3;ambos_sexos;10;Catamarca;2016;13,0
+3;ambos_sexos;10;Catamarca;2017;2,5
+3;ambos_sexos;10;Catamarca;2018;1,2
+3;ambos_sexos;10;Catamarca;2019;0,2
+3;ambos_sexos;10;Catamarca;2020;7,5
+3;ambos_sexos;10;Catamarca;2021;16,2
+3;ambos_sexos;10;Catamarca;2022;16,3
+3;ambos_sexos;22;Chaco;2010;8,4
+3;ambos_sexos;22;Chaco;2011;8,7
+3;ambos_sexos;22;Chaco;2012;10,0
+3;ambos_sexos;22;Chaco;2013;12,7
+3;ambos_sexos;22;Chaco;2014;4,2
+3;ambos_sexos;22;Chaco;2015;1,9
+3;ambos_sexos;22;Chaco;2016;6,7
+3;ambos_sexos;22;Chaco;2017;2,0
+3;ambos_sexos;22;Chaco;2018;14,1
+3;ambos_sexos;22;Chaco;2019;10,1
+3;ambos_sexos;22;Chaco;2020;4,3
+3;ambos_sexos;22;Chaco;2021;9,0
+3;ambos_sexos;22;Chaco;2022;9,3
+3;ambos_sexos;26;Chubut;2010;19,5
+3;ambos_sexos;26;Chubut;2011;25,9
+3;ambos_sexos;26;Chubut;2012;21,3
+3;ambos_sexos;26;Chubut;2013;24,9
+3;ambos_sexos;26;Chubut;2014;18,5
+3;ambos_sexos;26;Chubut;2015;19,8
+3;ambos_sexos;26;Chubut;2016;21,0
+3;ambos_sexos;26;Chubut;2017;9,4
+3;ambos_sexos;26;Chubut;2018;13,5
+3;ambos_sexos;26;Chubut;2019;16,6
+3;ambos_sexos;26;Chubut;2020;15,3
+3;ambos_sexos;26;Chubut;2021;16,7
+3;ambos_sexos;26;Chubut;2022;17,5
+3;ambos_sexos;14;Córdoba;2010;19,4
+3;ambos_sexos;14;Córdoba;2011;17,4
+3;ambos_sexos;14;Córdoba;2012;18,5
+3;ambos_sexos;14;Córdoba;2013;18,3
+3;ambos_sexos;14;Córdoba;2014;17,0
+3;ambos_sexos;14;Córdoba;2015;15,5
+3;ambos_sexos;14;Córdoba;2016;14,7
+3;ambos_sexos;14;Córdoba;2017;13,6
+3;ambos_sexos;14;Córdoba;2018;10,7
+3;ambos_sexos;14;Córdoba;2019;8,4
+3;ambos_sexos;14;Córdoba;2020;8,2
+3;ambos_sexos;14;Córdoba;2021;15,8
+3;ambos_sexos;14;Córdoba;2022;17,5
+3;ambos_sexos;18;Corrientes;2010;8,7
+3;ambos_sexos;18;Corrientes;2011;7,7
+3;ambos_sexos;18;Corrientes;2012;8,7
+3;ambos_sexos;18;Corrientes;2013;10,4
+3;ambos_sexos;18;Corrientes;2014;9,7
+3;ambos_sexos;18;Corrientes;2015;10,9
+3;ambos_sexos;18;Corrientes;2016;10,2
+3;ambos_sexos;18;Corrientes;2017;3,2
+3;ambos_sexos;18;Corrientes;2018;4,8
+3;ambos_sexos;18;Corrientes;2019;2,3
+3;ambos_sexos;18;Corrientes;2020;4,9
+3;ambos_sexos;18;Corrientes;2021;9,0
+3;ambos_sexos;18;Corrientes;2022;5,4
+3;ambos_sexos;30;Entre Ríos;2010;13,1
+3;ambos_sexos;30;Entre Ríos;2011;14,3
+3;ambos_sexos;30;Entre Ríos;2012;12,5
+3;ambos_sexos;30;Entre Ríos;2013;14,1
+3;ambos_sexos;30;Entre Ríos;2014;9,8
+3;ambos_sexos;30;Entre Ríos;2015;10,9
+3;ambos_sexos;30;Entre Ríos;2016;9,0
+3;ambos_sexos;30;Entre Ríos;2017;4,2
+3;ambos_sexos;30;Entre Ríos;2018;9,7
+3;ambos_sexos;30;Entre Ríos;2019;2,2
+3;ambos_sexos;30;Entre Ríos;2020;6,9
+3;ambos_sexos;30;Entre Ríos;2021;7,4
+3;ambos_sexos;30;Entre Ríos;2022;5,9
+3;ambos_sexos;34;Formosa;2010;7,1
+3;ambos_sexos;34;Formosa;2011;5,9
+3;ambos_sexos;34;Formosa;2012;8,7
+3;ambos_sexos;34;Formosa;2013;12,8
+3;ambos_sexos;34;Formosa;2014;7,0
+3;ambos_sexos;34;Formosa;2015;12,1
+3;ambos_sexos;34;Formosa;2016;12,7
+3;ambos_sexos;34;Formosa;2017;13,2
+3;ambos_sexos;34;Formosa;2018;15,1
+3;ambos_sexos;34;Formosa;2019;22,2
+3;ambos_sexos;34;Formosa;2020;14,4
+3;ambos_sexos;34;Formosa;2021;14,6
+3;ambos_sexos;34;Formosa;2022;19,0
+3;ambos_sexos;38;Jujuy;2010;18,0
+3;ambos_sexos;38;Jujuy;2011;15,3
+3;ambos_sexos;38;Jujuy;2012;20,5
+3;ambos_sexos;38;Jujuy;2013;25,1
+3;ambos_sexos;38;Jujuy;2014;23,1
+3;ambos_sexos;38;Jujuy;2015;24,2
+3;ambos_sexos;38;Jujuy;2016;22,7
+3;ambos_sexos;38;Jujuy;2017;27,4
+3;ambos_sexos;38;Jujuy;2018;38,6
+3;ambos_sexos;38;Jujuy;2019;39,7
+3;ambos_sexos;38;Jujuy;2020;17,9
+3;ambos_sexos;38;Jujuy;2021;41,1
+3;ambos_sexos;38;Jujuy;2022;24,6
+3;ambos_sexos;42;La Pampa;2010;11,9
+3;ambos_sexos;42;La Pampa;2011;16,7
+3;ambos_sexos;42;La Pampa;2012;12,0
+3;ambos_sexos;42;La Pampa;2013;22,0
+3;ambos_sexos;42;La Pampa;2014;15,9
+3;ambos_sexos;42;La Pampa;2015;19,2
+3;ambos_sexos;42;La Pampa;2016;19,9
+3;ambos_sexos;42;La Pampa;2017;20,9
+3;ambos_sexos;42;La Pampa;2018;14,2
+3;ambos_sexos;42;La Pampa;2019;13,8
+3;ambos_sexos;42;La Pampa;2020;10,9
+3;ambos_sexos;42;La Pampa;2021;13,6
+3;ambos_sexos;42;La Pampa;2022;15,1
+3;ambos_sexos;46;La Rioja;2010;18,4
+3;ambos_sexos;46;La Rioja;2011;15,3
+3;ambos_sexos;46;La Rioja;2012;9,9
+3;ambos_sexos;46;La Rioja;2013;18,5
+3;ambos_sexos;46;La Rioja;2014;17,1
+3;ambos_sexos;46;La Rioja;2015;12,0
+3;ambos_sexos;46;La Rioja;2016;4,0
+3;ambos_sexos;46;La Rioja;2017;1,9
+3;ambos_sexos;46;La Rioja;2018;1,0
+3;ambos_sexos;46;La Rioja;2019;9,8
+3;ambos_sexos;46;La Rioja;2020;2,0
+3;ambos_sexos;46;La Rioja;2021;14,3
+3;ambos_sexos;46;La Rioja;2022;28,0
+3;ambos_sexos;50;Mendoza;2010;14,9
+3;ambos_sexos;50;Mendoza;2011;15,9
+3;ambos_sexos;50;Mendoza;2012;15,7
+3;ambos_sexos;50;Mendoza;2013;17,3
+3;ambos_sexos;50;Mendoza;2014;17,3
+3;ambos_sexos;50;Mendoza;2015;17,5
+3;ambos_sexos;50;Mendoza;2016;16,0
+3;ambos_sexos;50;Mendoza;2017;16,0
+3;ambos_sexos;50;Mendoza;2018;16,5
+3;ambos_sexos;50;Mendoza;2019;17,3
+3;ambos_sexos;50;Mendoza;2020;11,1
+3;ambos_sexos;50;Mendoza;2021;15,7
+3;ambos_sexos;50;Mendoza;2022;17,8
+3;ambos_sexos;54;Misiones;2010;12,1
+3;ambos_sexos;54;Misiones;2011;11,3
+3;ambos_sexos;54;Misiones;2012;16,6
+3;ambos_sexos;54;Misiones;2013;10,3
+3;ambos_sexos;54;Misiones;2014;8,1
+3;ambos_sexos;54;Misiones;2015;3,0
+3;ambos_sexos;54;Misiones;2016;12,4
+3;ambos_sexos;54;Misiones;2017;9,6
+3;ambos_sexos;54;Misiones;2018;10,1
+3;ambos_sexos;54;Misiones;2019;2,6
+3;ambos_sexos;54;Misiones;2020;2,6
+3;ambos_sexos;54;Misiones;2021;13,3
+3;ambos_sexos;54;Misiones;2022;7,4
+3;ambos_sexos;58;Neuquén;2010;22,2
+3;ambos_sexos;58;Neuquén;2011;22,5
+3;ambos_sexos;58;Neuquén;2012;20,5
+3;ambos_sexos;58;Neuquén;2013;18,3
+3;ambos_sexos;58;Neuquén;2014;23,3
+3;ambos_sexos;58;Neuquén;2015;23,2
+3;ambos_sexos;58;Neuquén;2016;21,3
+3;ambos_sexos;58;Neuquén;2017;23,8
+3;ambos_sexos;58;Neuquén;2018;21,2
+3;ambos_sexos;58;Neuquén;2019;20,9
+3;ambos_sexos;58;Neuquén;2020;10,7
+3;ambos_sexos;58;Neuquén;2021;11,3
+3;ambos_sexos;58;Neuquén;2022;12,2
+3;ambos_sexos;62;Río Negro;2010;14,0
+3;ambos_sexos;62;Río Negro;2011;14,7
+3;ambos_sexos;62;Río Negro;2012;16,3
+3;ambos_sexos;62;Río Negro;2013;19,2
+3;ambos_sexos;62;Río Negro;2014;14,7
+3;ambos_sexos;62;Río Negro;2015;17,7
+3;ambos_sexos;62;Río Negro;2016;19,6
+3;ambos_sexos;62;Río Negro;2017;15,4
+3;ambos_sexos;62;Río Negro;2018;18,4
+3;ambos_sexos;62;Río Negro;2019;14,8
+3;ambos_sexos;62;Río Negro;2020;10,6
+3;ambos_sexos;62;Río Negro;2021;10,0
+3;ambos_sexos;62;Río Negro;2022;12,9
+3;ambos_sexos;66;Salta;2010;20,7
+3;ambos_sexos;66;Salta;2011;23,8
+3;ambos_sexos;66;Salta;2012;24,8
+3;ambos_sexos;66;Salta;2013;23,5
+3;ambos_sexos;66;Salta;2014;26,4
+3;ambos_sexos;66;Salta;2015;25,3
+3;ambos_sexos;66;Salta;2016;24,5
+3;ambos_sexos;66;Salta;2017;25,0
+3;ambos_sexos;66;Salta;2018;23,0
+3;ambos_sexos;66;Salta;2019;21,8
+3;ambos_sexos;66;Salta;2020;20,4
+3;ambos_sexos;66;Salta;2021;30,6
+3;ambos_sexos;66;Salta;2022;31,7
+3;ambos_sexos;70;San Juan;2010;8,3
+3;ambos_sexos;70;San Juan;2011;13,1
+3;ambos_sexos;70;San Juan;2012;14,3
+3;ambos_sexos;70;San Juan;2013;13,4
+3;ambos_sexos;70;San Juan;2014;12,5
+3;ambos_sexos;70;San Juan;2015;12,9
+3;ambos_sexos;70;San Juan;2016;13,0
+3;ambos_sexos;70;San Juan;2017;11,6
+3;ambos_sexos;70;San Juan;2018;14,1
+3;ambos_sexos;70;San Juan;2019;15,1
+3;ambos_sexos;70;San Juan;2020;10,9
+3;ambos_sexos;70;San Juan;2021;12,5
+3;ambos_sexos;70;San Juan;2022;19,1
+3;ambos_sexos;74;San Luis;2010;9,9
+3;ambos_sexos;74;San Luis;2011;10,7
+3;ambos_sexos;74;San Luis;2012;15,3
+3;ambos_sexos;74;San Luis;2013;19,6
+3;ambos_sexos;74;San Luis;2014;12,1
+3;ambos_sexos;74;San Luis;2015;15,5
+3;ambos_sexos;74;San Luis;2016;16,6
+3;ambos_sexos;74;San Luis;2017;9,8
+3;ambos_sexos;74;San Luis;2018;7,5
+3;ambos_sexos;74;San Luis;2019;11,8
+3;ambos_sexos;74;San Luis;2020;10,0
+3;ambos_sexos;74;San Luis;2021;11,9
+3;ambos_sexos;74;San Luis;2022;17,1
+3;ambos_sexos;78;Santa Cruz;2010;22,5
+3;ambos_sexos;78;Santa Cruz;2011;21,4
+3;ambos_sexos;78;Santa Cruz;2012;20,8
+3;ambos_sexos;78;Santa Cruz;2013;15,2
+3;ambos_sexos;78;Santa Cruz;2014;23,8
+3;ambos_sexos;78;Santa Cruz;2015;22,2
+3;ambos_sexos;78;Santa Cruz;2016;20,3
+3;ambos_sexos;78;Santa Cruz;2017;27,5
+3;ambos_sexos;78;Santa Cruz;2018;27,6
+3;ambos_sexos;78;Santa Cruz;2019;12,1
+3;ambos_sexos;78;Santa Cruz;2020;9,0
+3;ambos_sexos;78;Santa Cruz;2021;16,0
+3;ambos_sexos;78;Santa Cruz;2022;20,6
+3;ambos_sexos;82;Santa Fe;2010;14,3
+3;ambos_sexos;82;Santa Fe;2011;13,5
+3;ambos_sexos;82;Santa Fe;2012;13,6
+3;ambos_sexos;82;Santa Fe;2013;14,5
+3;ambos_sexos;82;Santa Fe;2014;10,7
+3;ambos_sexos;82;Santa Fe;2015;10,0
+3;ambos_sexos;82;Santa Fe;2016;7,6
+3;ambos_sexos;82;Santa Fe;2017;5,7
+3;ambos_sexos;82;Santa Fe;2018;6,8
+3;ambos_sexos;82;Santa Fe;2019;6,4
+3;ambos_sexos;82;Santa Fe;2020;7,2
+3;ambos_sexos;82;Santa Fe;2021;7,8
+3;ambos_sexos;82;Santa Fe;2022;11,3
+3;ambos_sexos;86;Santiago del Estero;2010;6,5
+3;ambos_sexos;86;Santiago del Estero;2011;9,6
+3;ambos_sexos;86;Santiago del Estero;2012;5,5
+3;ambos_sexos;86;Santiago del Estero;2013;3,9
+3;ambos_sexos;86;Santiago del Estero;2014;7,4
+3;ambos_sexos;86;Santiago del Estero;2015;9,3
+3;ambos_sexos;86;Santiago del Estero;2016;4,2
+3;ambos_sexos;86;Santiago del Estero;2017;2,3
+3;ambos_sexos;86;Santiago del Estero;2018;2,4
+3;ambos_sexos;86;Santiago del Estero;2019;2,3
+3;ambos_sexos;86;Santiago del Estero;2020;4,6
+3;ambos_sexos;86;Santiago del Estero;2021;5,6
+3;ambos_sexos;86;Santiago del Estero;2022;9,1
+3;ambos_sexos;94;Tierra del Fuego;2010;25,1
+3;ambos_sexos;94;Tierra del Fuego;2011;36,1
+3;ambos_sexos;94;Tierra del Fuego;2012;24,3
+3;ambos_sexos;94;Tierra del Fuego;2013;29,9
+3;ambos_sexos;94;Tierra del Fuego;2014;23,6
+3;ambos_sexos;94;Tierra del Fuego;2015;26,9
+3;ambos_sexos;94;Tierra del Fuego;2016;28,1
+3;ambos_sexos;94;Tierra del Fuego;2017;22,4
+3;ambos_sexos;94;Tierra del Fuego;2018;26,1
+3;ambos_sexos;94;Tierra del Fuego;2019;25,4
+3;ambos_sexos;94;Tierra del Fuego;2020;20,8
+3;ambos_sexos;94;Tierra del Fuego;2021;16,3
+3;ambos_sexos;94;Tierra del Fuego;2022;17,6
+3;ambos_sexos;90;Tucumán;2010;14,4
+3;ambos_sexos;90;Tucumán;2011;13,6
+3;ambos_sexos;90;Tucumán;2012;19,1
+3;ambos_sexos;90;Tucumán;2013;17,5
+3;ambos_sexos;90;Tucumán;2014;17,2
+3;ambos_sexos;90;Tucumán;2015;16,4
+3;ambos_sexos;90;Tucumán;2016;16,2
+3;ambos_sexos;90;Tucumán;2017;17,4
+3;ambos_sexos;90;Tucumán;2018;18,1
+3;ambos_sexos;90;Tucumán;2019;17,6
+3;ambos_sexos;90;Tucumán;2020;11,1
+3;ambos_sexos;90;Tucumán;2021;17,1
+3;ambos_sexos;90;Tucumán;2022;14,2
+2;mujeres;200;ARG;2010;11,6
+2;mujeres;200;ARG;2011;11,1
+2;mujeres;200;ARG;2012;11,1
+2;mujeres;200;ARG;2013;10,9
+2;mujeres;200;ARG;2014;9,1
+2;mujeres;200;ARG;2015;8,6
+2;mujeres;200;ARG;2016;8,2
+2;mujeres;200;ARG;2017;6,3
+2;mujeres;200;ARG;2018;6,7
+2;mujeres;200;ARG;2019;6,2
+2;mujeres;200;ARG;2020;4,6
+2;mujeres;200;ARG;2021;6,7
+2;mujeres;200;ARG;2022;7,3
+2;mujeres;02;CABA;2010;20,3
+2;mujeres;02;CABA;2011;18,8
+2;mujeres;02;CABA;2012;17,4
+2;mujeres;02;CABA;2013;17,0
+2;mujeres;02;CABA;2014;12,7
+2;mujeres;02;CABA;2015;12,0
+2;mujeres;02;CABA;2016;11,1
+2;mujeres;02;CABA;2017;6,9
+2;mujeres;02;CABA;2018;7,4
+2;mujeres;02;CABA;2019;8,2
+2;mujeres;02;CABA;2020;4,5
+2;mujeres;02;CABA;2021;6,3
+2;mujeres;02;CABA;2022;7,4
+2;mujeres;06;Buenos Aires;2010;11,5
+2;mujeres;06;Buenos Aires;2011;10,7
+2;mujeres;06;Buenos Aires;2012;10,0
+2;mujeres;06;Buenos Aires;2013;9,4
+2;mujeres;06;Buenos Aires;2014;8,2
+2;mujeres;06;Buenos Aires;2015;7,2
+2;mujeres;06;Buenos Aires;2016;6,5
+2;mujeres;06;Buenos Aires;2017;4,6
+2;mujeres;06;Buenos Aires;2018;4,8
+2;mujeres;06;Buenos Aires;2019;4,8
+2;mujeres;06;Buenos Aires;2020;3,2
+2;mujeres;06;Buenos Aires;2021;4,0
+2;mujeres;06;Buenos Aires;2022;4,5
+2;mujeres;10;Catamarca;2010;6,3
+2;mujeres;10;Catamarca;2011;8,4
+2;mujeres;10;Catamarca;2012;9,9
+2;mujeres;10;Catamarca;2013;4,6
+2;mujeres;10;Catamarca;2014;8,6
+2;mujeres;10;Catamarca;2015;15,6
+2;mujeres;10;Catamarca;2016;7,5
+2;mujeres;10;Catamarca;2017;1,0
+2;mujeres;10;Catamarca;2018;1,5
+2;mujeres;10;Catamarca;2019;0,5
+2;mujeres;10;Catamarca;2020;3,4
+2;mujeres;10;Catamarca;2021;12,9
+2;mujeres;10;Catamarca;2022;11,4
+2;mujeres;22;Chaco;2010;3,5
+2;mujeres;22;Chaco;2011;6,2
+2;mujeres;22;Chaco;2012;5,7
+2;mujeres;22;Chaco;2013;7,3
+2;mujeres;22;Chaco;2014;2,6
+2;mujeres;22;Chaco;2015;0,7
+2;mujeres;22;Chaco;2016;3,9
+2;mujeres;22;Chaco;2017;1,7
+2;mujeres;22;Chaco;2018;6,5
+2;mujeres;22;Chaco;2019;5,5
+2;mujeres;22;Chaco;2020;2,8
+2;mujeres;22;Chaco;2021;4,5
+2;mujeres;22;Chaco;2022;5,1
+2;mujeres;26;Chubut;2010;16,3
+2;mujeres;26;Chubut;2011;24,8
+2;mujeres;26;Chubut;2012;14,6
+2;mujeres;26;Chubut;2013;21,6
+2;mujeres;26;Chubut;2014;11,9
+2;mujeres;26;Chubut;2015;15,5
+2;mujeres;26;Chubut;2016;15,3
+2;mujeres;26;Chubut;2017;6,5
+2;mujeres;26;Chubut;2018;12,1
+2;mujeres;26;Chubut;2019;11,9
+2;mujeres;26;Chubut;2020;9,4
+2;mujeres;26;Chubut;2021;7,6
+2;mujeres;26;Chubut;2022;10,4
+2;mujeres;14;Córdoba;2010;12,1
+2;mujeres;14;Córdoba;2011;9,7
+2;mujeres;14;Córdoba;2012;10,6
+2;mujeres;14;Córdoba;2013;11,4
+2;mujeres;14;Córdoba;2014;9,3
+2;mujeres;14;Córdoba;2015;8,7
+2;mujeres;14;Córdoba;2016;8,5
+2;mujeres;14;Córdoba;2017;8,9
+2;mujeres;14;Córdoba;2018;7,3
+2;mujeres;14;Córdoba;2019;5,8
+2;mujeres;14;Córdoba;2020;5,3
+2;mujeres;14;Córdoba;2021;9,1
+2;mujeres;14;Córdoba;2022;10,4
+2;mujeres;18;Corrientes;2010;6,0
+2;mujeres;18;Corrientes;2011;4,6
+2;mujeres;18;Corrientes;2012;5,3
+2;mujeres;18;Corrientes;2013;5,3
+2;mujeres;18;Corrientes;2014;6,1
+2;mujeres;18;Corrientes;2015;5,9
+2;mujeres;18;Corrientes;2016;5,3
+2;mujeres;18;Corrientes;2017;2,2
+2;mujeres;18;Corrientes;2018;2,3
+2;mujeres;18;Corrientes;2019;1,1
+2;mujeres;18;Corrientes;2020;1,9
+2;mujeres;18;Corrientes;2021;5,6
+2;mujeres;18;Corrientes;2022;2,4
+2;mujeres;30;Entre Ríos;2010;9,4
+2;mujeres;30;Entre Ríos;2011;7,7
+2;mujeres;30;Entre Ríos;2012;8,4
+2;mujeres;30;Entre Ríos;2013;8,3
+2;mujeres;30;Entre Ríos;2014;6,3
+2;mujeres;30;Entre Ríos;2015;7,6
+2;mujeres;30;Entre Ríos;2016;6,5
+2;mujeres;30;Entre Ríos;2017;3,1
+2;mujeres;30;Entre Ríos;2018;6,1
+2;mujeres;30;Entre Ríos;2019;1,6
+2;mujeres;30;Entre Ríos;2020;5,1
+2;mujeres;30;Entre Ríos;2021;5,2
+2;mujeres;30;Entre Ríos;2022;3,6
+2;mujeres;34;Formosa;2010;7,2
+2;mujeres;34;Formosa;2011;2,9
+2;mujeres;34;Formosa;2012;5,7
+2;mujeres;34;Formosa;2013;10,5
+2;mujeres;34;Formosa;2014;3,8
+2;mujeres;34;Formosa;2015;8,3
+2;mujeres;34;Formosa;2016;9,9
+2;mujeres;34;Formosa;2017;8,8
+2;mujeres;34;Formosa;2018;10,4
+2;mujeres;34;Formosa;2019;15,9
+2;mujeres;34;Formosa;2020;8,9
+2;mujeres;34;Formosa;2021;8,8
+2;mujeres;34;Formosa;2022;11,7
+2;mujeres;38;Jujuy;2010;14,1
+2;mujeres;38;Jujuy;2011;10,5
+2;mujeres;38;Jujuy;2012;16,3
+2;mujeres;38;Jujuy;2013;17,8
+2;mujeres;38;Jujuy;2014;15,9
+2;mujeres;38;Jujuy;2015;13,8
+2;mujeres;38;Jujuy;2016;16,9
+2;mujeres;38;Jujuy;2017;18,0
+2;mujeres;38;Jujuy;2018;25,9
+2;mujeres;38;Jujuy;2019;19,2
+2;mujeres;38;Jujuy;2020;12,6
+2;mujeres;38;Jujuy;2021;24,4
+2;mujeres;38;Jujuy;2022;14,3
+2;mujeres;42;La Pampa;2010;7,9
+2;mujeres;42;La Pampa;2011;12,0
+2;mujeres;42;La Pampa;2012;11,3
+2;mujeres;42;La Pampa;2013;18,3
+2;mujeres;42;La Pampa;2014;14,6
+2;mujeres;42;La Pampa;2015;13,9
+2;mujeres;42;La Pampa;2016;17,2
+2;mujeres;42;La Pampa;2017;15,3
+2;mujeres;42;La Pampa;2018;11,3
+2;mujeres;42;La Pampa;2019;10,1
+2;mujeres;42;La Pampa;2020;6,6
+2;mujeres;42;La Pampa;2021;9,9
+2;mujeres;42;La Pampa;2022;13,1
+2;mujeres;46;La Rioja;2010;15,1
+2;mujeres;46;La Rioja;2011;12,6
+2;mujeres;46;La Rioja;2012;6,8
+2;mujeres;46;La Rioja;2013;18,4
+2;mujeres;46;La Rioja;2014;11,5
+2;mujeres;46;La Rioja;2015;8,1
+2;mujeres;46;La Rioja;2016;1,1
+2;mujeres;46;La Rioja;2017;2,1
+2;mujeres;46;La Rioja;2018;0,0
+2;mujeres;46;La Rioja;2019;8,7
+2;mujeres;46;La Rioja;2020;0,5
+2;mujeres;46;La Rioja;2021;11,5
+2;mujeres;46;La Rioja;2022;21,7
+2;mujeres;50;Mendoza;2010;8,4
+2;mujeres;50;Mendoza;2011;8,9
+2;mujeres;50;Mendoza;2012;7,3
+2;mujeres;50;Mendoza;2013;9,4
+2;mujeres;50;Mendoza;2014;8,3
+2;mujeres;50;Mendoza;2015;10,0
+2;mujeres;50;Mendoza;2016;8,0
+2;mujeres;50;Mendoza;2017;7,3
+2;mujeres;50;Mendoza;2018;6,5
+2;mujeres;50;Mendoza;2019;9,2
+2;mujeres;50;Mendoza;2020;4,7
+2;mujeres;50;Mendoza;2021;6,8
+2;mujeres;50;Mendoza;2022;7,7
+2;mujeres;54;Misiones;2010;11,7
+2;mujeres;54;Misiones;2011;11,0
+2;mujeres;54;Misiones;2012;14,0
+2;mujeres;54;Misiones;2013;10,5
+2;mujeres;54;Misiones;2014;5,8
+2;mujeres;54;Misiones;2015;1,8
+2;mujeres;54;Misiones;2016;10,6
+2;mujeres;54;Misiones;2017;6,2
+2;mujeres;54;Misiones;2018;6,5
+2;mujeres;54;Misiones;2019;2,1
+2;mujeres;54;Misiones;2020;1,1
+2;mujeres;54;Misiones;2021;9,4
+2;mujeres;54;Misiones;2022;4,5
+2;mujeres;58;Neuquén;2010;13,9
+2;mujeres;58;Neuquén;2011;11,6
+2;mujeres;58;Neuquén;2012;11,1
+2;mujeres;58;Neuquén;2013;13,9
+2;mujeres;58;Neuquén;2014;15,3
+2;mujeres;58;Neuquén;2015;14,8
+2;mujeres;58;Neuquén;2016;13,0
+2;mujeres;58;Neuquén;2017;12,8
+2;mujeres;58;Neuquén;2018;15,4
+2;mujeres;58;Neuquén;2019;11,5
+2;mujeres;58;Neuquén;2020;6,9
+2;mujeres;58;Neuquén;2021;5,3
+2;mujeres;58;Neuquén;2022;8,5
+2;mujeres;62;Río Negro;2010;11,7
+2;mujeres;62;Río Negro;2011;9,4
+2;mujeres;62;Río Negro;2012;10,4
+2;mujeres;62;Río Negro;2013;13,2
+2;mujeres;62;Río Negro;2014;13,0
+2;mujeres;62;Río Negro;2015;14,5
+2;mujeres;62;Río Negro;2016;14,6
+2;mujeres;62;Río Negro;2017;12,2
+2;mujeres;62;Río Negro;2018;14,8
+2;mujeres;62;Río Negro;2019;11,9
+2;mujeres;62;Río Negro;2020;6,4
+2;mujeres;62;Río Negro;2021;5,5
+2;mujeres;62;Río Negro;2022;8,3
+2;mujeres;66;Salta;2010;15,5
+2;mujeres;66;Salta;2011;18,1
+2;mujeres;66;Salta;2012;21,5
+2;mujeres;66;Salta;2013;16,3
+2;mujeres;66;Salta;2014;18,4
+2;mujeres;66;Salta;2015;16,6
+2;mujeres;66;Salta;2016;17,7
+2;mujeres;66;Salta;2017;15,3
+2;mujeres;66;Salta;2018;14,3
+2;mujeres;66;Salta;2019;12,4
+2;mujeres;66;Salta;2020;13,2
+2;mujeres;66;Salta;2021;20,7
+2;mujeres;66;Salta;2022;19,9
+2;mujeres;70;San Juan;2010;5,4
+2;mujeres;70;San Juan;2011;9,0
+2;mujeres;70;San Juan;2012;11,3
+2;mujeres;70;San Juan;2013;8,5
+2;mujeres;70;San Juan;2014;7,0
+2;mujeres;70;San Juan;2015;5,9
+2;mujeres;70;San Juan;2016;7,7
+2;mujeres;70;San Juan;2017;7,1
+2;mujeres;70;San Juan;2018;6,2
+2;mujeres;70;San Juan;2019;7,2
+2;mujeres;70;San Juan;2020;3,6
+2;mujeres;70;San Juan;2021;8,3
+2;mujeres;70;San Juan;2022;10,2
+2;mujeres;74;San Luis;2010;7,1
+2;mujeres;74;San Luis;2011;8,8
+2;mujeres;74;San Luis;2012;11,3
+2;mujeres;74;San Luis;2013;15,0
+2;mujeres;74;San Luis;2014;7,2
+2;mujeres;74;San Luis;2015;11,7
+2;mujeres;74;San Luis;2016;11,1
+2;mujeres;74;San Luis;2017;4,5
+2;mujeres;74;San Luis;2018;4,0
+2;mujeres;74;San Luis;2019;8,7
+2;mujeres;74;San Luis;2020;4,7
+2;mujeres;74;San Luis;2021;7,7
+2;mujeres;74;San Luis;2022;11,4
+2;mujeres;78;Santa Cruz;2010;18,7
+2;mujeres;78;Santa Cruz;2011;20,3
+2;mujeres;78;Santa Cruz;2012;21,0
+2;mujeres;78;Santa Cruz;2013;10,2
+2;mujeres;78;Santa Cruz;2014;17,2
+2;mujeres;78;Santa Cruz;2015;18,0
+2;mujeres;78;Santa Cruz;2016;11,9
+2;mujeres;78;Santa Cruz;2017;21,3
+2;mujeres;78;Santa Cruz;2018;24,3
+2;mujeres;78;Santa Cruz;2019;5,8
+2;mujeres;78;Santa Cruz;2020;6,2
+2;mujeres;78;Santa Cruz;2021;8,8
+2;mujeres;78;Santa Cruz;2022;16,1
+2;mujeres;82;Santa Fe;2010;10,6
+2;mujeres;82;Santa Fe;2011;9,6
+2;mujeres;82;Santa Fe;2012;9,9
+2;mujeres;82;Santa Fe;2013;10,0
+2;mujeres;82;Santa Fe;2014;6,0
+2;mujeres;82;Santa Fe;2015;5,4
+2;mujeres;82;Santa Fe;2016;3,8
+2;mujeres;82;Santa Fe;2017;3,0
+2;mujeres;82;Santa Fe;2018;3,5
+2;mujeres;82;Santa Fe;2019;4,4
+2;mujeres;82;Santa Fe;2020;5,1
+2;mujeres;82;Santa Fe;2021;5,5
+2;mujeres;82;Santa Fe;2022;7,3
+2;mujeres;86;Santiago del Estero;2010;5,7
+2;mujeres;86;Santiago del Estero;2011;8,1
+2;mujeres;86;Santiago del Estero;2012;4,7
+2;mujeres;86;Santiago del Estero;2013;4,2
+2;mujeres;86;Santiago del Estero;2014;5,6
+2;mujeres;86;Santiago del Estero;2015;8,2
+2;mujeres;86;Santiago del Estero;2016;4,0
+2;mujeres;86;Santiago del Estero;2017;1,3
+2;mujeres;86;Santiago del Estero;2018;2,1
+2;mujeres;86;Santiago del Estero;2019;2,1
+2;mujeres;86;Santiago del Estero;2020;4,3
+2;mujeres;86;Santiago del Estero;2021;3,0
+2;mujeres;86;Santiago del Estero;2022;7,2
+2;mujeres;94;Tierra del Fuego;2010;12,4
+2;mujeres;94;Tierra del Fuego;2011;28,6
+2;mujeres;94;Tierra del Fuego;2012;23,4
+2;mujeres;94;Tierra del Fuego;2013;14,2
+2;mujeres;94;Tierra del Fuego;2014;13,8
+2;mujeres;94;Tierra del Fuego;2015;14,7
+2;mujeres;94;Tierra del Fuego;2016;7,8
+2;mujeres;94;Tierra del Fuego;2017;7,6
+2;mujeres;94;Tierra del Fuego;2018;16,1
+2;mujeres;94;Tierra del Fuego;2019;18,1
+2;mujeres;94;Tierra del Fuego;2020;12,9
+2;mujeres;94;Tierra del Fuego;2021;9,2
+2;mujeres;94;Tierra del Fuego;2022;7,8
+2;mujeres;90;Tucumán;2010;7,8
+2;mujeres;90;Tucumán;2011;6,5
+2;mujeres;90;Tucumán;2012;10,2
+2;mujeres;90;Tucumán;2013;8,0
+2;mujeres;90;Tucumán;2014;10,8
+2;mujeres;90;Tucumán;2015;7,2
+2;mujeres;90;Tucumán;2016;8,6
+2;mujeres;90;Tucumán;2017;7,7
+2;mujeres;90;Tucumán;2018;9,4
+2;mujeres;90;Tucumán;2019;7,3
+2;mujeres;90;Tucumán;2020;5,5
+2;mujeres;90;Tucumán;2021;8,8
+2;mujeres;90;Tucumán;2022;8,2
+1;varones;200;ARG;2010;23,9
+1;varones;200;ARG;2011;24,0
+1;varones;200;ARG;2012;23,7
+1;varones;200;ARG;2013;23,6
+1;varones;200;ARG;2014;21,7
+1;varones;200;ARG;2015;22,3
+1;varones;200;ARG;2016;20,5
+1;varones;200;ARG;2017;16,2
+1;varones;200;ARG;2018;16,3
+1;varones;200;ARG;2019;15,2
+1;varones;200;ARG;2020;11,7
+1;varones;200;ARG;2021;16,6
+1;varones;200;ARG;2022;17,2
+1;varones;02;CABA;2010;77,8
+1;varones;02;CABA;2011;72,4
+1;varones;02;CABA;2012;69,6
+1;varones;02;CABA;2013;66,3
+1;varones;02;CABA;2014;61,1
+1;varones;02;CABA;2015;64,7
+1;varones;02;CABA;2016;59,4
+1;varones;02;CABA;2017;40,6
+1;varones;02;CABA;2018;33,1
+1;varones;02;CABA;2019;34,0
+1;varones;02;CABA;2020;23,7
+1;varones;02;CABA;2021;29,6
+1;varones;02;CABA;2022;28,1
+1;varones;06;Buenos Aires;2010;19,6
+1;varones;06;Buenos Aires;2011;19,6
+1;varones;06;Buenos Aires;2012;17,9
+1;varones;06;Buenos Aires;2013;16,9
+1;varones;06;Buenos Aires;2014;15,3
+1;varones;06;Buenos Aires;2015;16,0
+1;varones;06;Buenos Aires;2016;14,4
+1;varones;06;Buenos Aires;2017;9,9
+1;varones;06;Buenos Aires;2018;10,2
+1;varones;06;Buenos Aires;2019;9,8
+1;varones;06;Buenos Aires;2020;7,3
+1;varones;06;Buenos Aires;2021;9,1
+1;varones;06;Buenos Aires;2022;8,9
+1;varones;10;Catamarca;2010;3,7
+1;varones;10;Catamarca;2011;10,5
+1;varones;10;Catamarca;2012;13,0
+1;varones;10;Catamarca;2013;14,9
+1;varones;10;Catamarca;2014;13,7
+1;varones;10;Catamarca;2015;18,6
+1;varones;10;Catamarca;2016;18,5
+1;varones;10;Catamarca;2017;4,0
+1;varones;10;Catamarca;2018;1,0
+1;varones;10;Catamarca;2019;0,0
+1;varones;10;Catamarca;2020;11,5
+1;varones;10;Catamarca;2021;19,5
+1;varones;10;Catamarca;2022;21,3
+1;varones;22;Chaco;2010;13,5
+1;varones;22;Chaco;2011;11,3
+1;varones;22;Chaco;2012;14,3
+1;varones;22;Chaco;2013;18,3
+1;varones;22;Chaco;2014;5,7
+1;varones;22;Chaco;2015;3,2
+1;varones;22;Chaco;2016;9,6
+1;varones;22;Chaco;2017;2,3
+1;varones;22;Chaco;2018;21,8
+1;varones;22;Chaco;2019;14,8
+1;varones;22;Chaco;2020;5,9
+1;varones;22;Chaco;2021;13,7
+1;varones;22;Chaco;2022;13,5
+1;varones;26;Chubut;2010;22,6
+1;varones;26;Chubut;2011;26,7
+1;varones;26;Chubut;2012;28,0
+1;varones;26;Chubut;2013;28,2
+1;varones;26;Chubut;2014;25,2
+1;varones;26;Chubut;2015;24,0
+1;varones;26;Chubut;2016;26,3
+1;varones;26;Chubut;2017;12,2
+1;varones;26;Chubut;2018;15,0
+1;varones;26;Chubut;2019;21,3
+1;varones;26;Chubut;2020;21,3
+1;varones;26;Chubut;2021;25,7
+1;varones;26;Chubut;2022;24,6
+1;varones;14;Córdoba;2010;27,1
+1;varones;14;Córdoba;2011;25,5
+1;varones;14;Córdoba;2012;26,8
+1;varones;14;Córdoba;2013;25,6
+1;varones;14;Córdoba;2014;25,0
+1;varones;14;Córdoba;2015;22,7
+1;varones;14;Córdoba;2016;21,1
+1;varones;14;Córdoba;2017;18,6
+1;varones;14;Córdoba;2018;14,2
+1;varones;14;Córdoba;2019;11,2
+1;varones;14;Córdoba;2020;11,3
+1;varones;14;Córdoba;2021;22,9
+1;varones;14;Córdoba;2022;25,0
+1;varones;18;Corrientes;2010;11,6
+1;varones;18;Corrientes;2011;10,9
+1;varones;18;Corrientes;2012;12,1
+1;varones;18;Corrientes;2013;15,7
+1;varones;18;Corrientes;2014;13,4
+1;varones;18;Corrientes;2015;16,1
+1;varones;18;Corrientes;2016;15,2
+1;varones;18;Corrientes;2017;4,3
+1;varones;18;Corrientes;2018;7,4
+1;varones;18;Corrientes;2019;3,6
+1;varones;18;Corrientes;2020;8,0
+1;varones;18;Corrientes;2021;12,5
+1;varones;18;Corrientes;2022;8,5
+1;varones;30;Entre Ríos;2010;17,1
+1;varones;30;Entre Ríos;2011;21,2
+1;varones;30;Entre Ríos;2012;16,7
+1;varones;30;Entre Ríos;2013;20,0
+1;varones;30;Entre Ríos;2014;13,4
+1;varones;30;Entre Ríos;2015;14,3
+1;varones;30;Entre Ríos;2016;11,6
+1;varones;30;Entre Ríos;2017;5,3
+1;varones;30;Entre Ríos;2018;13,5
+1;varones;30;Entre Ríos;2019;2,8
+1;varones;30;Entre Ríos;2020;8,7
+1;varones;30;Entre Ríos;2021;9,8
+1;varones;30;Entre Ríos;2022;8,2
+1;varones;34;Formosa;2010;6,9
+1;varones;34;Formosa;2011;9,0
+1;varones;34;Formosa;2012;11,8
+1;varones;34;Formosa;2013;15,2
+1;varones;34;Formosa;2014;10,1
+1;varones;34;Formosa;2015;15,9
+1;varones;34;Formosa;2016;15,5
+1;varones;34;Formosa;2017;17,7
+1;varones;34;Formosa;2018;19,9
+1;varones;34;Formosa;2019;28,4
+1;varones;34;Formosa;2020;19,9
+1;varones;34;Formosa;2021;20,4
+1;varones;34;Formosa;2022;26,5
+1;varones;38;Jujuy;2010;22,0
+1;varones;38;Jujuy;2011;20,2
+1;varones;38;Jujuy;2012;24,9
+1;varones;38;Jujuy;2013;32,5
+1;varones;38;Jujuy;2014;30,4
+1;varones;38;Jujuy;2015;34,8
+1;varones;38;Jujuy;2016;28,6
+1;varones;38;Jujuy;2017;37,0
+1;varones;38;Jujuy;2018;51,3
+1;varones;38;Jujuy;2019;60,8
+1;varones;38;Jujuy;2020;23,1
+1;varones;38;Jujuy;2021;57,9
+1;varones;38;Jujuy;2022;35,2
+1;varones;42;La Pampa;2010;16,0
+1;varones;42;La Pampa;2011;21,3
+1;varones;42;La Pampa;2012;12,7
+1;varones;42;La Pampa;2013;25,7
+1;varones;42;La Pampa;2014;17,2
+1;varones;42;La Pampa;2015;24,7
+1;varones;42;La Pampa;2016;22,7
+1;varones;42;La Pampa;2017;26,5
+1;varones;42;La Pampa;2018;17,2
+1;varones;42;La Pampa;2019;17,6
+1;varones;42;La Pampa;2020;15,2
+1;varones;42;La Pampa;2021;17,3
+1;varones;42;La Pampa;2022;17,2
+1;varones;46;La Rioja;2010;21,7
+1;varones;46;La Rioja;2011;17,9
+1;varones;46;La Rioja;2012;13,1
+1;varones;46;La Rioja;2013;18,5
+1;varones;46;La Rioja;2014;22,7
+1;varones;46;La Rioja;2015;15,8
+1;varones;46;La Rioja;2016;7,0
+1;varones;46;La Rioja;2017;1,6
+1;varones;46;La Rioja;2018;2,1
+1;varones;46;La Rioja;2019;10,9
+1;varones;46;La Rioja;2020;3,6
+1;varones;46;La Rioja;2021;17,1
+1;varones;46;La Rioja;2022;34,3
+1;varones;50;Mendoza;2010;21,6
+1;varones;50;Mendoza;2011;23,2
+1;varones;50;Mendoza;2012;24,3
+1;varones;50;Mendoza;2013;25,5
+1;varones;50;Mendoza;2014;26,7
+1;varones;50;Mendoza;2015;25,3
+1;varones;50;Mendoza;2016;24,2
+1;varones;50;Mendoza;2017;24,9
+1;varones;50;Mendoza;2018;26,8
+1;varones;50;Mendoza;2019;25,7
+1;varones;50;Mendoza;2020;17,6
+1;varones;50;Mendoza;2021;24,9
+1;varones;50;Mendoza;2022;28,2
+1;varones;54;Misiones;2010;12,6
+1;varones;54;Misiones;2011;11,7
+1;varones;54;Misiones;2012;19,2
+1;varones;54;Misiones;2013;10,2
+1;varones;54;Misiones;2014;10,4
+1;varones;54;Misiones;2015;4,2
+1;varones;54;Misiones;2016;14,1
+1;varones;54;Misiones;2017;13,0
+1;varones;54;Misiones;2018;13,6
+1;varones;54;Misiones;2019;3,1
+1;varones;54;Misiones;2020;4,1
+1;varones;54;Misiones;2021;17,3
+1;varones;54;Misiones;2022;10,3
+1;varones;58;Neuquén;2010;30,5
+1;varones;58;Neuquén;2011;33,5
+1;varones;58;Neuquén;2012;29,9
+1;varones;58;Neuquén;2013;22,7
+1;varones;58;Neuquén;2014;31,3
+1;varones;58;Neuquén;2015;31,8
+1;varones;58;Neuquén;2016;29,7
+1;varones;58;Neuquén;2017;35,0
+1;varones;58;Neuquén;2018;27,1
+1;varones;58;Neuquén;2019;30,4
+1;varones;58;Neuquén;2020;14,5
+1;varones;58;Neuquén;2021;17,4
+1;varones;58;Neuquén;2022;16,0
+1;varones;62;Río Negro;2010;16,4
+1;varones;62;Río Negro;2011;20,1
+1;varones;62;Río Negro;2012;22,2
+1;varones;62;Río Negro;2013;25,1
+1;varones;62;Río Negro;2014;16,3
+1;varones;62;Río Negro;2015;21,0
+1;varones;62;Río Negro;2016;24,6
+1;varones;62;Río Negro;2017;18,7
+1;varones;62;Río Negro;2018;22,0
+1;varones;62;Río Negro;2019;17,7
+1;varones;62;Río Negro;2020;14,8
+1;varones;62;Río Negro;2021;14,6
+1;varones;62;Río Negro;2022;17,5
+1;varones;66;Salta;2010;26,1
+1;varones;66;Salta;2011;29,7
+1;varones;66;Salta;2012;28,2
+1;varones;66;Salta;2013;30,7
+1;varones;66;Salta;2014;34,6
+1;varones;66;Salta;2015;34,1
+1;varones;66;Salta;2016;31,4
+1;varones;66;Salta;2017;35,0
+1;varones;66;Salta;2018;32,0
+1;varones;66;Salta;2019;31,3
+1;varones;66;Salta;2020;27,5
+1;varones;66;Salta;2021;40,6
+1;varones;66;Salta;2022;43,6
+1;varones;70;San Juan;2010;10,8
+1;varones;70;San Juan;2011;16,7
+1;varones;70;San Juan;2012;16,8
+1;varones;70;San Juan;2013;18,2
+1;varones;70;San Juan;2014;17,7
+1;varones;70;San Juan;2015;20,0
+1;varones;70;San Juan;2016;18,4
+1;varones;70;San Juan;2017;16,3
+1;varones;70;San Juan;2018;22,2
+1;varones;70;San Juan;2019;23,2
+1;varones;70;San Juan;2020;18,3
+1;varones;70;San Juan;2021;16,9
+1;varones;70;San Juan;2022;27,5
+1;varones;74;San Luis;2010;12,7
+1;varones;74;San Luis;2011;12,5
+1;varones;74;San Luis;2012;19,4
+1;varones;74;San Luis;2013;24,4
+1;varones;74;San Luis;2014;17,2
+1;varones;74;San Luis;2015;19,5
+1;varones;74;San Luis;2016;22,1
+1;varones;74;San Luis;2017;15,3
+1;varones;74;San Luis;2018;11,0
+1;varones;74;San Luis;2019;14,9
+1;varones;74;San Luis;2020;15,5
+1;varones;74;San Luis;2021;15,7
+1;varones;74;San Luis;2022;22,8
+1;varones;78;Santa Cruz;2010;26,1
+1;varones;78;Santa Cruz;2011;22,6
+1;varones;78;Santa Cruz;2012;20,6
+1;varones;78;Santa Cruz;2013;19,9
+1;varones;78;Santa Cruz;2014;30,0
+1;varones;78;Santa Cruz;2015;26,1
+1;varones;78;Santa Cruz;2016;28,3
+1;varones;78;Santa Cruz;2017;33,3
+1;varones;78;Santa Cruz;2018;30,2
+1;varones;78;Santa Cruz;2019;18,0
+1;varones;78;Santa Cruz;2020;11,7
+1;varones;78;Santa Cruz;2021;22,9
+1;varones;78;Santa Cruz;2022;24,9
+1;varones;82;Santa Fe;2010;18,3
+1;varones;82;Santa Fe;2011;17,7
+1;varones;82;Santa Fe;2012;17,6
+1;varones;82;Santa Fe;2013;19,3
+1;varones;82;Santa Fe;2014;15,7
+1;varones;82;Santa Fe;2015;14,9
+1;varones;82;Santa Fe;2016;11,5
+1;varones;82;Santa Fe;2017;8,5
+1;varones;82;Santa Fe;2018;10,2
+1;varones;82;Santa Fe;2019;8,3
+1;varones;82;Santa Fe;2020;9,4
+1;varones;82;Santa Fe;2021;10,3
+1;varones;82;Santa Fe;2022;15,4
+1;varones;86;Santiago del Estero;2010;7,3
+1;varones;86;Santiago del Estero;2011;11,1
+1;varones;86;Santiago del Estero;2012;6,3
+1;varones;86;Santiago del Estero;2013;3,5
+1;varones;86;Santiago del Estero;2014;9,2
+1;varones;86;Santiago del Estero;2015;10,4
+1;varones;86;Santiago del Estero;2016;4,3
+1;varones;86;Santiago del Estero;2017;3,4
+1;varones;86;Santiago del Estero;2018;2,7
+1;varones;86;Santiago del Estero;2019;2,5
+1;varones;86;Santiago del Estero;2020;4,9
+1;varones;86;Santiago del Estero;2021;8,1
+1;varones;86;Santiago del Estero;2022;11,1
+1;varones;94;Tierra del Fuego;2010;37,2
+1;varones;94;Tierra del Fuego;2011;43,3
+1;varones;94;Tierra del Fuego;2012;25,2
+1;varones;94;Tierra del Fuego;2013;44,9
+1;varones;94;Tierra del Fuego;2014;33,1
+1;varones;94;Tierra del Fuego;2015;38,6
+1;varones;94;Tierra del Fuego;2016;47,6
+1;varones;94;Tierra del Fuego;2017;36,6
+1;varones;94;Tierra del Fuego;2018;34,5
+1;varones;94;Tierra del Fuego;2019;32,5
+1;varones;94;Tierra del Fuego;2020;28,3
+1;varones;94;Tierra del Fuego;2021;23,2
+1;varones;94;Tierra del Fuego;2022;27,0
+1;varones;90;Tucumán;2010;21,1
+1;varones;90;Tucumán;2011;20,8
+1;varones;90;Tucumán;2012;28,2
+1;varones;90;Tucumán;2013;27,2
+1;varones;90;Tucumán;2014;23,7
+1;varones;90;Tucumán;2015;26,0
+1;varones;90;Tucumán;2016;24,0
+1;varones;90;Tucumán;2017;27,4
+1;varones;90;Tucumán;2018;27,1
+1;varones;90;Tucumán;2019;28,2
+1;varones;90;Tucumán;2020;16,8
+1;varones;90;Tucumán;2021;25,7
+1;varones;90;Tucumán;2022;20,4
